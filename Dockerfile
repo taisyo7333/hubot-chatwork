@@ -15,5 +15,6 @@ RUN npm install
 
 ADD . /bot-service
 
+EXPOSE 8080
 
 ENTRYPOINT ["bin/hubot", "-a", "chatwork"]
