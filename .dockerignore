@@ -1,0 +1,8 @@
+## Environment
+.git
+
+## OSX
+.DS_Store
+
+## docker
+.dockerignore
